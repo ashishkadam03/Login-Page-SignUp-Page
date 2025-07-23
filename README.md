@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://ashishkadam03.github.io/Login-Page-SignUp-Page/" target="_blank">
-    <img src="https://ashishkadam03.github.io/Login-Page-SignUp-Page" width="600" alt="Project Preview"/>
+    <img src="https://ashishkadam03.github.io/Login-Page-SignUp-Page" width="600" alt="🚀 Project Preview"/>
   </a>
 </p>
 
