@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ashishkadam03.github.io/Login-Page-SignUp-Page/" width="600" alt="Project Preview"/>
+  <img src="[https://ashishkadam03.github.io/Login-Page-SignUp-Page/](https://ashishkadam03.github.io/Login-Page-SignUp-Page/)" width="600" alt="Project Preview"/>
 </p>
 
 
