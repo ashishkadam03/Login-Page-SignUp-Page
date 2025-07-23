@@ -27,11 +27,16 @@
 
 ## 📸 Preview
 
-![Preview Screenshot](images/preview.png)
+### 💻 Laptop View
 
-> Replace with your actual screenshot
+<img src="images/Laptop%20view%201.png" alt="Laptop View - Sign Up" width="400"/>
+<img src="images/Laptop%20view%202.png" alt="Laptop View - Login" width="400"/>
 
----
+### 📱 Mobile View
+
+<img src="images/mobile%20view%201.png" alt="Mobile View - Login" width="200"/>
+<img src="images/mobile%20view%202.png" alt="Mobile View - Sign Up" width="200"/>
+
 
 ## 📁 Folder Structure
 
